@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4ce21c5cb918fc942b39ff114ade33b1
+guid: 790f9b9f5fd3c8a47ba68381a4920cc6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +108,196 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: spooktacular-halloween-fun-watercolor-clipart-cartoon-painting-eerie-skeleton-pure-white_983420-82130-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54e856e07110e845804a72709fa069d
+      internalID: -711939985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spooktacular-halloween-fun-watercolor-clipart-cartoon-painting-eerie-skeleton-pure-white_983420-82130-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07973ff7c8514454a9a54590f561ade1
+      internalID: 1459926209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spooktacular-halloween-fun-watercolor-clipart-cartoon-painting-eerie-skeleton-pure-white_983420-82130-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065644ffe5f840d4e955f7604019e450
+      internalID: -815157540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spooktacular-halloween-fun-watercolor-clipart-cartoon-painting-eerie-skeleton-pure-white_983420-82130-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb23a1fc9e04a804c865f26447e5499f
+      internalID: 1568631154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spooktacular-halloween-fun-watercolor-clipart-cartoon-painting-eerie-skeleton-pure-white_983420-82130-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0e72d2ec91cbe4a83c80fbf7bb23e9
+      internalID: -1314616155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spooktacular-halloween-fun-watercolor-clipart-cartoon-painting-eerie-skeleton-pure-white_983420-82130-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da526742066331c48aa7879bc5a8dff0
+      internalID: 726776005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spooktacular-halloween-fun-watercolor-clipart-cartoon-painting-eerie-skeleton-pure-white_983420-82130-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe4a5a34c7af9c449d3ecd8661e306d
+      internalID: 1504302645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spooktacular-halloween-fun-watercolor-clipart-cartoon-painting-eerie-skeleton-pure-white_983420-82130-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59d42a89363d8642875ad932b07ae45
+      internalID: -399057714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spooktacular-halloween-fun-watercolor-clipart-cartoon-painting-eerie-skeleton-pure-white_983420-82130-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a8fcdcec7b29540890f621771392bd
+      internalID: -1485763432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +308,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spooktacular-halloween-fun-watercolor-clipart-cartoon-painting-eerie-skeleton-pure-white_983420-82130-removebg-preview_0: -711939985
+      spooktacular-halloween-fun-watercolor-clipart-cartoon-painting-eerie-skeleton-pure-white_983420-82130-removebg-preview_1: 1459926209
+      spooktacular-halloween-fun-watercolor-clipart-cartoon-painting-eerie-skeleton-pure-white_983420-82130-removebg-preview_2: -815157540
+      spooktacular-halloween-fun-watercolor-clipart-cartoon-painting-eerie-skeleton-pure-white_983420-82130-removebg-preview_3: 1568631154
+      spooktacular-halloween-fun-watercolor-clipart-cartoon-painting-eerie-skeleton-pure-white_983420-82130-removebg-preview_4: -1314616155
+      spooktacular-halloween-fun-watercolor-clipart-cartoon-painting-eerie-skeleton-pure-white_983420-82130-removebg-preview_5: 726776005
+      spooktacular-halloween-fun-watercolor-clipart-cartoon-painting-eerie-skeleton-pure-white_983420-82130-removebg-preview_6: 1504302645
+      spooktacular-halloween-fun-watercolor-clipart-cartoon-painting-eerie-skeleton-pure-white_983420-82130-removebg-preview_7: -399057714
+      spooktacular-halloween-fun-watercolor-clipart-cartoon-painting-eerie-skeleton-pure-white_983420-82130-removebg-preview_8: -1485763432
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

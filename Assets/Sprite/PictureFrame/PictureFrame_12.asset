@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: PictureFrame_12
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 782448260, guid: b314f66813ca1014d8810d136c9ca540, type: 3}
+  m_Sprite: {fileID: -1156840037, guid: 2495c415827707b4790a05f062b592dd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1

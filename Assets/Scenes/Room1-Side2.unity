@@ -174,7 +174,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58d69c3fff521614aa14d9e55c92afbf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameStartScene: 4
+  gameStartScene: 3
 --- !u!114 &58553016
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7848,7 +7848,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58d69c3fff521614aa14d9e55c92afbf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameStartScene: 4
+  gameStartScene: 1
 --- !u!114 &1632746923
 MonoBehaviour:
   m_ObjectHideFlags: 0

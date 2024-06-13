@@ -38,4 +38,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/KeyPad.unity
     guid: d7f7ad30bbc3c824ba947d0eb634105f
+  - enabled: 1
+    path: Assets/Scenes/Room1-Side1 Desk.unity
+    guid: b34dae71356d18e4aaa4f3767cdd0fbd
   m_configObjects: {}

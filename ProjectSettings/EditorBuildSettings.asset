@@ -56,4 +56,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Stockings.unity
     guid: 89c47465368db8e41b009214fb7232a6
+  - enabled: 1
+    path: Assets/Scenes/Door Lock.unity
+    guid: e9f506560f4f5c24992f007b074fce35
   m_configObjects: {}

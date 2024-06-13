@@ -59,4 +59,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Door Lock.unity
     guid: e9f506560f4f5c24992f007b074fce35
+  - enabled: 1
+    path: Assets/Scenes/End Scene.unity
+    guid: 0e4fa357e0ca3be4e9edda6711ad65b3
   m_configObjects: {}

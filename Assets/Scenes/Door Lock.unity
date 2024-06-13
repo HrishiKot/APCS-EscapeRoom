@@ -505,13 +505,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6dcfce578a6dbc545a5234f46dc64d2d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Interactable: 1
-  LockCanvas: {fileID: 0}
-  Text: []
-  Password: 
-  LockCharacterChoices: []
-  _LockCharacterNumber: 
-  _insertedPassword: 
 --- !u!114 &294681558
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -642,13 +635,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6dcfce578a6dbc545a5234f46dc64d2d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Interactable: 1
-  LockCanvas: {fileID: 0}
-  Text: []
-  Password: 
-  LockCharacterChoices: []
-  _LockCharacterNumber: 
-  _insertedPassword: 
 --- !u!114 &381638569
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -955,13 +941,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6dcfce578a6dbc545a5234f46dc64d2d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Interactable: 1
-  LockCanvas: {fileID: 0}
-  Text: []
-  Password: 
-  LockCharacterChoices: []
-  _LockCharacterNumber: 
-  _insertedPassword: 
 --- !u!1 &558679941
 GameObject:
   m_ObjectHideFlags: 0
@@ -3572,7 +3551,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58d69c3fff521614aa14d9e55c92afbf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameStartScene: 2
+  gameStartScene: 17
 --- !u!114 &2118223800
 MonoBehaviour:
   m_ObjectHideFlags: 0

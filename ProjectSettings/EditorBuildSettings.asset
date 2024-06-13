@@ -41,4 +41,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Room1-Side1 Desk.unity
     guid: b34dae71356d18e4aaa4f3767cdd0fbd
+  - enabled: 1
+    path: Assets/Scenes/Room2-Riddles.unity
+    guid: a5d6ea0c74ef90c45ba3a757b851aec2
+  - enabled: 1
+    path: Assets/Scenes/Transition.unity
+    guid: 9ca349f948e893949bbf75acf3ad5cfb
+  - enabled: 1
+    path: Assets/Scenes/Christmas Tree.unity
+    guid: 4fdc773d81cdf9e499e835b7a1158cd6
+  - enabled: 1
+    path: Assets/Scenes/Snow.unity
+    guid: 69b922d27c920234e9d408fa15babb5a
+  - enabled: 1
+    path: Assets/Scenes/Stockings.unity
+    guid: 89c47465368db8e41b009214fb7232a6
   m_configObjects: {}

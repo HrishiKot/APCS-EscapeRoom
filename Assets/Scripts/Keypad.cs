@@ -17,7 +17,7 @@ public class Keypad : MonoBehaviour
     public void Execute()
     {
         if (Ans.text == Answer){
-
+            Ans.text = "CORRECT";
         } else {
             Ans.text = "INVALID";
         }
